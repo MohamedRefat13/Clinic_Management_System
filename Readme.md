@@ -2,7 +2,18 @@
 The Clinic Management System is being developed in C programming language.
 This Clinic Management System is based on the concept of managing a patient’s record at a hospital.
 The project is based on Single Linked List Data structure
-
+#What can the system do?
+###In Admin Mode
+1) `Add new patient record [ Name , Age ,Gender , ID ]`
+2) `Edit Patient Record`
+3) `Reserve aSlot with doctor if there is available slot`
+4) `Cancel reservation`
+###In User Mode
+1)`View Patient Record`
+2)`View Todays Reservation`
+   
+#System Features
+The system can store patient records in a separate file in case of a system failure. and it is able to restore those records again when the system starts up
 
 ---
 # Functions description
