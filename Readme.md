@@ -8,7 +8,7 @@ The project is based on Single Linked List Data structure
 2) `Edit Patient Record`
 3) `Reserve aSlot with doctor if there is available slot`
 4) `Cancel reservation`
-5) 
+
 ### In User Mode
 1) `View Patient Record`
 2) `View Todays Reservation`
